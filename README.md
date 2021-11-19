@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shelby!
 - 👀 I’m interested in web development and data analysis 
 - 🌱 I’m currently learning Tableau, Bootstrap, and Python!
-- 💞️ I’m specialize in application support and database management!
-- 📫 How to reach me Twitter, IG, or LinkedIn! 
+- 💞️ I specialize in application support and database management!
+- 📫 You can reach me Twitter, IG, or LinkedIn! But please ask first :)
