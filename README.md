@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shelby Geonea'!
+- 👋 Hi, I’m Shelby Geonea'
 - 👀 I’m interested in cloud computing, networking, Linux, and Python.
 - 🌱 I’m currently AWS Cloud.
 - 💞️ I specialize in application support and database management!
