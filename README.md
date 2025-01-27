@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shelby Geonea'
 - 👀 I’m interested in cloud computing, networking, Linux, and Python.
 - 🌱 I’m currently learning AWS Cloud.
-- 💞️ I work for Deloitte's Customer Success team as a Support Specialist to many amazing clients!
+- 💞️ I work for a Customer Success team as a Support Specialist to many amazing clients!
 - 📫 You can reach me on LinkedIn!
